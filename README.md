@@ -3,7 +3,7 @@ Data science portfolio projects
 
 Project (1): Top 1000 IMBD Movies Web Scraping and EDA
  
- This project begins with web scraping the top 1000 movies from IMBD.com. From the list of top 1000 movies page we made separate requests to the respective movie pages to collect data like the budget, gross earnings, runtime and rating. After scraping the data this project continues with Exploratory Data Analysis which begins with cleaning the data and performing various analysis along with creating meaningful insights.
+ This project begins with web scraping the top 1000 movies from IMBD.com using the Beautiful Soup library. From the list of top 1000 movies page separate requests were made to the respective movie pages to collect data like the budget, gross earnings, runtime and ratings of a movie. After scraping the data this project continues with Exploratory Data Analysis which includes various different steps like cleaning the data, performing various analysis along with creating meaningful insights.
 
 Link to the top 1000 IMBD movies page: https://www.imdb.com/search/title/?groups=top_1000&star
 
