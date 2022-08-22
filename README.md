@@ -9,6 +9,6 @@ Link to the top 1000 IMBD movies page: https://www.imdb.com/search/title/?groups
 
 Project (2): Machine Learning NLP Classification using Scikit Learn
 
-This project uses a set of 50K IMBD Reviews that has been web scraped from IMDB.com to build a NLP machine learning model. The reviews are classified according to both positive and negative sentiments respectively. This dataset will be utilized to build a  classifier model that will be able to accurately predict both positive and negative sentiments. Scikit Learn offers many different types of models for supervised learning. One such model available for classification is the Support Vector Machines (SVMs) method which are commonly used for for classification, regression and outliers detection.
+This project uses a set of 50K IMBD Reviews that has been web scraped from IMDB.com to build a NLP machine learning model. The reviews are classified according to both positive and negative sentiments respectively. This dataset was used to build a  classifier model to accurately predict both positive and negative sentiments. Scikit Learn offers many different types of models for supervised learning. One such model available for classification is the Support Vector Machines (SVMs) method which was used for this project.
 
 Link to the list of supervised learning models available from Scikit Learn: https://scikit-learn.org/stable/supervised_learning.html
