@@ -22,3 +22,7 @@ Link to tableau analysis: https://public.tableau.com/app/profile/joseph.jesawant
 
 Project (4): Nashville Housing SQL Data Cleaning
 In this project a housing dataset was cleaned using SQL which includes tasks like creating new column from existing columns, filling column values with correct entries, removing duplicates and deleting unused columns.
+
+Power BI Projects:
+1) Sales Report Visualization 
+2) Adventure Works Sales Report Visualization
