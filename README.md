@@ -14,6 +14,7 @@ This project uses a set of 50K IMBD Reviews that was collected from IMDB.com to 
 Link to the list of supervised learning models available from Scikit Learn: https://scikit-learn.org/stable/supervised_learning.html
 
 Project (3): Covid-19 SQL Data Exploration
+
 In this project a covid-19 dataset was analysed utilizing Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views and Converting Data Types. This dataset was analysed further subseqently in tableau.
 
 Link to the covid-19 data source: https://ourworldindata.org/covid-deaths
@@ -21,6 +22,7 @@ Link to the covid-19 data source: https://ourworldindata.org/covid-deaths
 Link to tableau analysis: https://public.tableau.com/app/profile/joseph.jesawanth/viz/Covid19Analysis_16616164326530/Dashboard1
 
 Project (4): Nashville Housing SQL Data Cleaning
+
 In this project a housing dataset was cleaned using SQL which includes tasks like creating new column from existing columns, filling column values with correct entries, removing duplicates and deleting unused columns.
 
 Power BI Projects:
