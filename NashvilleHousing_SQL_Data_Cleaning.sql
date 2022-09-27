@@ -8,7 +8,6 @@ SELECT *
 FROM PortfolioProject..NashvilleHousing
 
 --------------------------------------------------------------------------------------------------------------------------
-
 -- Standardize Date Format
 
 ALTER TABLE NashvilleHousing
@@ -21,7 +20,6 @@ SELECT SaleDateConverted
 FROM PortfolioProject..NashvilleHousing
 
 --------------------------------------------------------------------------------------------------------------------------
-
 -- Fill empty rows from property address column
 
 SELECT *
@@ -44,7 +42,6 @@ JOIN PortfolioProject..NashvilleHousing b
 WHERE a.PropertyAddress IS NULL
 
 --------------------------------------------------------------------------------------------------------------------------
-
 -- Splitting PropertyAddress column into Individual Columns (Address, City))
 
 SELECT PropertyAddress
