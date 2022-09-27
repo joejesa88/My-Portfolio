@@ -31,7 +31,7 @@ FROM PortfolioProject..NashvilleHousing a
 JOIN PortfolioProject..NashvilleHousing b
 	ON a.ParcelID = b.ParcelID
 	AND a.[UniqueID ] <> b.[UniqueID ]
-WHERE a.PropertyAddress IS NULL
+WHERE a.PropertyAddress IS NULL 
 
 UPDATE a
 SET PropertyAddress = ISNULL(a.PropertyAddress,b.PropertyAddress)
