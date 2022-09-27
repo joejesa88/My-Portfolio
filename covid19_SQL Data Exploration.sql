@@ -110,7 +110,7 @@ FROM PortfolioProject..CovidDeaths dea
 JOIN PortfolioProject..CovidVaccinations vac
 	ON dea.location = vac.location
 	and dea.date_info = vac.date_info
-WHERE dea.continent IS NOT NULL
+WHERE dea.continent IS NOT NULL 
 
 SELECT * , (RollingSumVaccinations/Population) *100 AS PercentVaccinated
 FROM #PercentPopulationVaccinated
